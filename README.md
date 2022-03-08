@@ -3,4 +3,4 @@ this is my repository
 
 this I typed on my laptop.
 
-this I changed on github
+this I deleted on github
